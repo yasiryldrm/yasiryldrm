@@ -28,12 +28,16 @@ const yasir = {
 ```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhkZndmbnZsOGQxN2F3Y2s5dW9uOG13aDI4d3FnaTMxZ2xzNHo5aiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XH9wwXfUXu91wAJwN5/giphy.gif" width="85">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp">
-  <img src="https://media.giphy.com/media/jSVxBdrgYRPJC/100.gif">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/100.webp">
-  <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/100w.webp">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" />
 </div>
+
+
 
 </td>
 <td width="40%">
